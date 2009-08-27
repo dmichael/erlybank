@@ -1,0 +1,7 @@
+{release, {"eb_rel", "1"},
+          {erts, "5.6.3"},
+          [{kernel, "2.12.3"},
+           {stdlib, "1.15.3"},
+           {sasl, "2.1.5.3"},
+           {erlybank, "1.0"}]
+}.
